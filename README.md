@@ -53,12 +53,12 @@ Here are some ideas to get you started:
 
 #### What I Used
 <p align="left">
-    <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-ar21.svg" title="Jira" width="20" height="20"/>
-    <img src="https://www.vectorlogo.zone/logos/electronjs/electronjs-ar21.svg" title="Electron" width="20" height="20"/>
-    <img src="https://www.vectorlogo.zone/logos/druidio/druidio-ar21.svg" title="Druid" width="20" height="20"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" title="Nodejs" width="20" height="20"/>
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-ar21.svg" title="Tailwind CSS" width="20" height="20"/>
-    <img src="https://www.vectorlogo.zone/logos/apache_tomcat/apache_tomcat-ar21.svg" title="Tomcat" width="20" height="20"/>
+    <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-ar21.svg" title="Jira" width="30" height="30"/>
+    <img src="https://www.vectorlogo.zone/logos/electronjs/electronjs-ar21.svg" title="Electron" width="30" height="30"/>
+    <img src="https://www.vectorlogo.zone/logos/druidio/druidio-ar21.svg" title="Druid" width="30" height="30"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" title="Nodejs" width="30" height="30"/>
+    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-ar21.svg" title="Tailwind CSS" width="30" height="30"/>
+    <img src="https://www.vectorlogo.zone/logos/apache_tomcat/apache_tomcat-ar21.svg" title="Tomcat" width="30" height="30"/>
 </p>  
 
 ---
