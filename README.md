@@ -1,8 +1,14 @@
 ## Hi there! I'm Cheakin👋  ![visitors](https://visitor-badge.glitch.me/badge?page_id=cheankin&left_color=green&right_color=red)
-- 🔭 大家好，我是Cheakin。
-- 🌱 欢迎你来访问我的Github。
-- 🤔 可能这里并没有你需要的项目。
-- 😄 既然来了，就是有缘，我的朋友。
+
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=cheakin&show_icons=true&hide=contribs&line_height=24" with="400">
+
+🔭 大家好，我是Cheakin，  
+
+🌱 欢迎你来访问我的Github，  
+
+🤔 可能这里并没有你需要的项目，  
+
+😄 既然来了，就是有缘，我的朋友。 
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=人生就像一场旅行......;在乎的不是目的地，;而是沿途的风景！)  
 
@@ -96,9 +102,9 @@
 </table> 
 
 ## 📈 Stats
-<p align="center">
+<!-- <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=cheakin&show_icons=true&hide=contribs&line_height=24">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cheakin&layout=compact&langs_count=6">
-</p>
+</p> -->
 
 <img src="https://activity-graph.herokuapp.com/graph?username=cheakin&theme=github">
